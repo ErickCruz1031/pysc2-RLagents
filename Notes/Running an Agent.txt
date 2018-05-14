@@ -1,5 +1,5 @@
 ==================================================
-Running an Agent in pysc2.env.sc2_env.SC2Env
+Running an Agent in pysc2.env.sc2_env.SC2Env a
 ==================================================
 
 At each timestep, the agent.step function is called with an observation in the form of a TimeStep object, ie.
